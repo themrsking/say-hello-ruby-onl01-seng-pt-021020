@@ -1,5 +1,3 @@
-greeting "say_hello Gabriela"
-def "Hello Gabriela"
-  puts "Hello Gabriela!"
-end
+def say_hello_Gabriela
+  puts "say hello, Gabriela!"
 end
