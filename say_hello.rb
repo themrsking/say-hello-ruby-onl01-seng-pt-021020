@@ -1,1 +1,6 @@
-# Build your say_hello method here
+require 'pry'
+def say_hello ("Gabriela")
+  #binding.pry
+  puts "Hello Gabriela!"
+end
+
